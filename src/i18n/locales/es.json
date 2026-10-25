@@ -2926,6 +2926,7 @@
   "Gemini Live connection is expiring. Start voice again for a new conversation.": "La conexión con Gemini Live va a caducar. Vuelve a iniciar la voz para una nueva conversación.",
   "Gemini voice sessions have a time limit. When a session expires, start voice again for a new conversation.": "Las sesiones de voz de Gemini tienen un límite de tiempo. Cuando caduque la sesión, vuelve a iniciar la voz para una nueva conversación.",
   "Gemini Live voice control": "Control por voz con Gemini Live",
+  "AI summary line on the HUD (Claude)": "Línea de resumen de IA en el HUD (Claude)",
   "Voice provider": "Proveedor de voz",
   "Changing provider reconnects voice if it is on.": "Cambiar de proveedor vuelve a conectar la voz si está activada.",
   "Gemini voice could not connect. Try again.": "No se pudo conectar la voz de Gemini. Inténtalo de nuevo.",

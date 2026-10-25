@@ -345,6 +345,7 @@
       "server/providers/openai/constants.js",
       "server/providers/openai/debug-log.js",
       "server/providers/openai/hud-summary.js",
+      "server/providers/anthropic/hud-summary.js",
       "server/providers/openai/instructions.js",
       "server/providers/openai/rate-limit.js",
       "server/providers/openai/realtime.js",
@@ -362,7 +363,7 @@
       "server/providers/openai/toolDescriptions.js",
       "src/sources/rateLimit.js"
     ],
-    "external": []
+    "external": ["@anthropic-ai/sdk"]
   },
   "standalone-key-setup": {
     "runtime": "node",
